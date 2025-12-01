@@ -1,4 +1,4 @@
-* 🎵 Music-Recommendation
+**🎵 Music-Recommendation**
 
 **In-Context Learning (ICL) Music Recommendation using Gemma 3 (4B) with BPR-MF Baseline**
 
