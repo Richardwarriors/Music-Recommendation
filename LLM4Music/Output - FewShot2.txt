@@ -1,0 +1,495 @@
+["Your Hit Parade - 1946", "A New Sunrise", "Popemobile", "Getting Down - 20 Blues Classics - by Lowell Fulson (Audio CD)", "Stress Why You Put Me Through It", "THE Great Soap Opera Themes", "MARIA LUISA LANDIN LA HORA AZUL", "Living in a Bubble"]
+
+[
+    "Blu Blowin",
+    "60 EXITOS DE TRIO CALAVERAS",
+    "RUDOLF FIRKUSNY- SMETANA- CZECH POLKAS AND DANCES",
+    "15 EXITOS",
+    "Songs About Sex and Depression",
+    "Cumbias Con Arpa",
+    "Janus",
+    "Heyday",
+    "Orquesta Reve & Neno Gonzalez : Mano a Mano",
+    "Apples of Gold"
+]
+
+['The Best of Sam Cooke', 'I\'M MOVIN ON', 'The Swingle Singers Compilation Album (Reflections & Live at Ronnie Scotts)', 'Scherrer/Fritz: Symphonies & Violin Concerto', 'Johann Strauss, Jr. ~ Readers Digest Favorites From the Classics', 'The Great British Psychedelic Trip, Vol. 3', 'Ferruccio Busoni - Berceuse Elegiaque op 42, Canto della Ronda degli Spirit op 47, Lustspielouverture op 38, Four Songs, Violin Concerto in D op 35a, Rondo Arlecchinesco op 46', 'Bear Tracks: Special Bear Exports', 'Laura Smith']
+
+[
+    "Bach - Piano Works - Joerg Demus",
+    "Beethoven: Octet for Winds - Rondino for Wind Octet - Sextet for Winds",
+    "Brahms: Piano Quartets Nos. 1, 2 & 3",
+    "Faure: Two Violin Sonatas - Sonata No. 1 in A Major, Op. 13 / Sonata No. 2 in E Minor, Op. 108",
+    "Four Italian Flute Concertos",
+    "Bach Recital",
+    "Ferruccio Busoni - Berceuse Elegiaque op 42, Canto della Ronda degli Spirit op 47, Lustspielouverture op 38, Four Songs, Violin Concerto in D op 35a, Rondo Arlecchinesco op 46",
+    "Amazing Grace - Breath - Cd, 1997",
+    "Brahms: Serenade in D, Op. 11",
+    "Brahms: Symphony No. 1 / Glazunov: Violin Concerto"
+]
+
+['Radulescu: Inner Time II', 'Strength', 'THE BEATLES Rock'n'Roll Music CD', 'Beck: Symphonies Op. 4, Nos. 1-3 [SACD]', 'Maggot Brain/Chant (Think It Ain't Illegal Yet)/Lunchmeataphobia (Think It Ain't Illegal Yet)/P.E. Squad-Doo Doo Chasers', 'Uncommon Love', 'Schubert String Quintet In C. Quartetto Fone W.Franco Rossi Cello Ii', 'The Trinity', 'FutureNever']
+['Johann Strauss: Famous Waltzes', 'Benny Goodman: Hits Collection', 'Loretta Lynn, Waylon Jennings, Brenda Lee, Willie Nelson, Charley Pride', 'Send in the Clowns', 'Pleyel: Preussiche Quartette [Pleyel Quartett K??ln] [CPO: 777777-2]', 'Mirror\'s Image by Billy Cobham (2015-05-04)', 'Two the Hard Way', 'Paris 76', 'Southern Steel by Steve Morse Band (1991-07-28)']
+['Igor Krutoy Best Songs 2CD', 'Maniya velichiya', 'BEATLES I HOPE WE PASSED THE AUDITION CD MINI LP OBI', 'LED ZEPPELIN - GREATEST HITS 2CD', 'Wranitzky: String Quintet & String Sextet by Brilliant Classics (2012-03-15)', 'The Beatles - Live At Star-Club 1962 Vol.2 - Audio Cd MLPS [Mini Long Play Sleeve] Japanese Mini-LP Replica Audio CD OBI', 'Go-go mueve-mueve [Single-CD]', 'Something New Mini Lp Cd Japan OBI']
+['Clasicos De Oro', 'Mitch\'s Marches', 'mudy in squall', 'The Heart of Rock \'N\' Roll 1956', 'Sunday In New York', 'Once Upon a Song - Various Artists', 'The Bridge', 'Dance Party: Glory Days of Rock 'N' Roll', 'EDDIE FISHER: BRING BACK THE THRILL(POP LP VINYL, 1963)', 'Monitor This April/May 2000 (Audio CD) - Various Artists - Beck, Snake River Conspiracy, Eels, Apollo Four Forty, Guster, Catatonia, 7th House, Pat McGee, Tam, The The, The Hippos, Bloodhound Gang']
+['Fromental Halevy: La Juive (Live Performance, London, 1973) (Legato)', 'The Kalin Twins LP', 'Live Peace in Toronto (1969)', 'Play Classics - Greg Lake / Maneuvers', 'Valuable Angel', 'Red Hot Mama / Little Ole Country Boy 45 rpm single', 'STREET LEGAL', 'Markevitch Conducts Beethoven: Symphonies Nos. 1,2,3,5,6,8 & 9 ,Overtures']
+
+[
+    "THE BEATLES FINAL RIVER RHINE TAPES CD MINI LP OBI",
+    "Private Dancer by Tina Turner [Music CD]",
+    "Jay Shree Swaminarayan [Cd]",
+    "Time Capsule:Greatest Hits By B-52's (1999-12-23)",
+    "Wall 30th Anniversary",
+    "Live At Cornerstone, Vol. 1",
+    "Eberl: 3 Symphonies",
+    "Chosen",
+    "SECRET(CD+DVD)",
+    "After The Gold Rush: The Dawn/Pye Anthology 1973-77 by Prelude (2006-09-25)"
+]
+
+['Grote Zaal De Doelen - Rotterdam, Holland 5/11/72', 'Road Trips Vol.1 No.3: Summer \'71', 'Family Dog at the Great Highway, San Francisco, CA 4/18/70', 'From Then to You [Japanese Mini Lp Sleve]', 'The Beatles - The DECCA Audition - Audio Cd MLPS [Mini Long Play Sleeve] Japanese Mini-LP Replica Audio CD OBI', 'The Beatles - The Complete Pop Goes the Weasel', 'The Beatles – Acetates', 'The Beatles - Dave\'s Picks, Vol. 8: Fox Theatre, Atlanta, GA 11/30/80', 'The Esher Demos - Acoustic Masterpieces']
+['Pretty Please', 'A Trip Into the Sun', 'Takin' Care Of Business', 'Alive', 'Gild the Black Lily']
+
+[
+    "Paco|Sabicas- Festival Gitana",
+    "The Owl And The Tree by Mother Gong (2004-03-15)",
+    "Paco Peña - Flamenco Festival LP",
+    "Spanish guitar (1980) / Vinyl record [Vinyl-LP]",
+    "The Golden Age of English Lute Music",
+    "Music for Lute - Konrad Ragossnig (4 CD Box Set) (Archiv)",
+    "MELIAH RAGE \"KILL TO SURVIVE\" LP 1988",
+    "Quiet Time III - An Instrumental Worship Album",
+    "NUMBER'S ONE'S 1970'S",
+    "Arie"
+]
+
+
+[
+    "Beethoven Lieder (Complete Recording)",
+    "Chapter 19: N 2 Deep",
+    "Charleston, SC 1966 by Darius Rucker (2010) Audio CD",
+    "Bootsy? Player Of The Year",
+    "SECRET(CD+DVD)",
+    "Mood Mosaic 16: The Hipsoulover / Various",
+    "Charpentier, Jacques : Tu Es Pierre et Sur Cette Pierre...",
+    "Mussorgsky Ravel: Pictures At An Exhibit",
+    "disco polka LP",
+    "Bohuslav Martinu: Julietta (A Dream Book)"
+]
+
+['Ernest Ansermet - French Orchestral Works Japan 13-CD Box Set', 'Dave\'s Picks Volume 5', 'The Big Country Original Soundtrack', 'AE Essential Mix (American Eagle Outfitters)', 'Christian Ferras Plays Sonatas of Schumann, Brahms, Franck, Lekeu', 'Holy Smokes', 'Who\'s Afraid Of The Big Bad Wolf?', 'Group 1850: Paradise Now + Agemo\'s Trip To Mother Earth + 1 bonus track']
+
+[
+    "Messianic Praise",
+    "Sir Harrison Birtwistle: 17 Tate Riffs, The Silk House Tattoo & Five Distance for Five Instruments",
+    "Spirit of the Century by The Blind Boys of Alabama (2001) Audio CD",
+    "One Nation Under a Groove Original recording reissued Edition by Funkadelic (1993) Audio CD",
+    "Wait a Minute",
+    "Holiday Ranch",
+    "Chant Gregorien / Cant Gregoria / Gregorian Chant",
+    "Angus|VOLUME 1 +4 by INCREDIBLE HOG (2011-08-05)",
+    "Live in Spain",
+    "Mr. Wilson (Original 1956 LP Record)"
+]
+
+['The Beatles - THE BEATLES GERMAN RLS - Audio Cd MLPS [Mini Long Play Sleeve]', 'The Beatles - Sgt. Pepper's Lonely Hearts Club Band', 'The Beatles - Help!', 'The Beatles - Abbey Road', 'The Beatles - Rubber Soul', 'Pink Floyd – The Dark Side of the Moon', 'Led Zeppelin – Led Zeppelin IV', 'Queen – A Night at the Opera', 'Bruce Springsteen – Born in the U.S.A.', 'Fleetwood Mac – Rumours']
+
+[
+    "Papa's Bounce|NME Awards 2005: The Winners",
+    "Hang Tuff",
+    "Giulio Cesare - Tebaldi,Nicol",
+    "Genuine Leather Soul",
+    "Various :California Metal",
+    "Beauties of 1918",
+    "Cuba Isla De La Juventud : Sucu-Sucu",
+    "candlelight moods and memories",
+    "The Swingle Singers Compilation Album (Reflections & Live at Ronnie Scotts)"
+]
+
+['The Best of Dan Seals by Seals, Dan (1990) Audio CD', 'The Singers and Songwriters Collection: The Classics', 'Time in a bottle-Greatest love songs', 'A Tower Records Tribute To The Beatles', 'Giulio Cesare - Tebaldi,Nicol', 'Schony', 'Lost Tracks']
+
+[
+    "Bach:Well-Tempered Clavier",
+    "Beethoven: Symphonies Nos, 6 & 8 - Klaus Tennstedt",
+    "The Motown Collection",
+    "That Swing Thing",
+    "Music for Lute - Konrad Ragossnig (4 CD Box Set) (Archiv)",
+    "Twelve Inch Mixes",
+    "FFRR- Gold On Black-1990",
+    "The Sound of Silence – Simon & Garfunkel",
+    "Robo Sapien",
+    "Tricot - Bakuretsu Toricot San [Japan CD]"
+]
+
+['The 4 Seasons Sing Big Hits by Burt Bacharach...Bob Dylan..Hal David', 'Queen of the Gypsies', 'Down to Earth by RAINBOW', 'Sanz Deluxe - Song Book Edition', 'Villa Lobos: Rudepoema; New York Skyline; Carnaval Das Criancas. Roberto Szidon, Piano', 'Dig?|Sin Klub\'s Greatest Hymns Volume 1', 'Wagner: Der Fliegende Hollander [The Flying Dutchman]', 'Last Man Standing', 'CLP 1707 YURY BOUKOFF Chopin Polonaises Volume 2 (8-16) LP']
+['Dave\'s Picks, Volume 6: San Francisco 12/20/69 & St. Louis 2/2/70|nan|nan','In Concert Addendum 2: 1965-1966 (2CD MINI LP set)', 'Mother McCree\'s Uptown Jug Champions', 'The Heart of Gold Band', 'Wranitzky: String Quintet & String Sextet by Brilliant Classics (2012-03-15)', 'El Flamenco Es...', 'Grieg: Concerto in A Minor for piano and orchestra, Op.16', 'Wagner: Der Fliegende Hollander [The Flying Dutchman]']
+['92.3 WTTS Collector's Edition Volume 9', 'Clasicos De Oro', 'The Real Johnny Mathis The Ultimate Johnny Mathis Collection', 'Fibich: Symphony No. 1 in F major, Op. 17', 'The Singers and Songwriters Collection: The Classics', 'Beatriz Adriana - 80 Aniversario Peerless [Donde Comienza La Musica Grabada En Mexico]', '92.3 WTTS Collector's Edition Volume 9', 'The Soul of Molly O’Day, Volume 2', 'Clasicos De Oro', 'The Lighthouse']
+
+[
+    "Next to Canada",
+    "Blackbird",
+    "Etienne Charles: Kaiso",
+    "99.974 DO",
+    "8 Classic Albums - John Lee Hooker by Real Gone Music",
+    "Corbett/Chrisman/Tice (COMPACT DISC)",
+    "Dr. Feelgood's Traveling Medicine Show",
+    "Star Trek IV: The Voyage Home",
+    "The Neo Blues Project",
+    "I"
+]
+
+['Pleyel: Paris Quartets Vol.2 by ARS Produktion', 'san franciscan nights LP', 'Ivan Moravec plays Debussy: Images (Complete) / Estampes / Des Pas Sur La Niege', 'Organ Varieties Lenny Dee at the organ', 'You’Re The Top', 'Rolla: Concerti, Divertimenti, Sinfonia', 'Abbey Road / Hey Jude', 'Sunday In New York', 'Majestic Serenity by Sardonyx (2007-09-26)']
+['Kahil El'Zabar's Ritual Trio - Jitterbug Junction', 'Bondage Fruit', 'Modeste Mussorgsky by Cala Records', 'Billy Lamont Meets Chuck Edwards', 'Schubert: String Quintet Op. 163 Taneyev Quartet With Mistislav Rostropovich', 'Invocations - V. Artyomov', 'The Monkey Never Dies!', '100% Funk', 'Nickolay Baskov']
+['Soul Masters', 'Eulogy Pretend', 'Myrrh Presents The Contemporary Christian Classics: What A Day / Love Broke Thru', 'Streams of White Light Into Darkened Corners', 'Johann Pachelbel -Hexachordum Apollinis + Chaconne In F Minor', 'Homebelly Groove by Spin Doctors [Music CD]', 'Pink Pigs Over Fillmore West', 'BUTCHIE'S TUNE/SUMMER IN THE CITY/45/7"', 'The Golden Band Era Volume Four']
+['Verdi: I Vespri Siciliani (Rome 1964) (Melodram)', 'Wolf:String Quartets [Pleyel Quartett Koln] [CPO: 777856-2] by Pleyel Quartett Koln', 'Tribu', 'Mood Music for Pleasure /Relaxing with the Stars (Reader’s Digest 4_CD box)', 'Lindsay - Southland', 'Shotgun Angel (25th Anniversary Issue)', 'Place of My Own: The Collection', 'Cover to Cover - New Twists on Great Songs (Pottery Barn)', 'Town to Town / Ph’lip Side / Play Thru Me']
+["Dowland: Lachrimae Or Seven Tears And Other Pavanes", "Bartok Concerto for Orchestra", "Grieg: Concerto in A Minor for piano and orchestra, Op.16 Oscar Levant piano", "Tie Me Kangaroo Down", "Sport", "Goldene Schlager Oldies", "So Long Astoria by Ataris [Music CD]", "Far from Me", "Memories Are Made of This", "Goldene Schlager Oldies"]
+['The Bear Song', 'Blowing Hot and Cool', 'Twist and Shout', 'PINK FLOYD - BBC SESSIONS '67 Audio Cd MLPS', 'Musician Magazine’s A Little on the CD Side Volume 25', 'Alwyn: Symphonies 2,3 & 5', 'Now Hear This - Independent Music Awards - 2008 Winners']
+['Billy Lamont Meets Chuck Edwards', 'Beatles Beginnings: Volume Two: Quarrymen Two: Rock'n'roll by Various', 'Stompin' Vol.5 (CD)', 'Complete Blue Note Horace Parlan Sessions', 'Monarch', 'Rock Rock-Ola: 30 Juke Joint Rockers', 'The Sound of Silence – Simon & Garfunkel', 'The Moody Blues', 'Pink Floyd – The Dark Side of the Moon', 'Led Zeppelin – Led Zeppelin IV', 'Queen – A Night at the Opera', 'Bruce Springsteen – Born in the U.S.A.', 'David Bowie – Ziggy Stardust', 'The Rolling Stones – Exile on Main St.', 'Bob Dylan – Highway 61 Revisited', 'Fleetwood Mac – Rumours', 'The Sound of Music - Original Motion Picture Soundtrack', 'The Blue Danube Waltz', 'The Nutcracker - Suite', 'The Best of Ella Fitzgerald', 'Glenn Miller Orchestra - In The Mood', 'Frank Sinatra: Greatest Hits', 'Dean Martin - Greatest Hits', 'Nat King Cole - Greatest Hits', 'Perry Como - Greatest Hits', 'Elvis Presley - Hits']
+
+[
+    "Isang Yun: Concerto for Violoncello",
+    "The Kalin Twins LP",
+    "~ Memories",
+    "Liszt: Choral Works",
+    "Méhul: The Complete Symphonies",
+    "Alwyn: Symphonies 2,3 & 5 Import",
+    "The Complete Pop Goes the Weasel",
+    "Shchedrin: Symphony No.1, The Chimes, Maiden's Round Dance, Solemn Overture,The Execution of Pugachev, Concertino",
+    "Abel: Ouvertures & Sinfonias",
+    "The Beatles - THE ESHER DEMOS - Audio Cd MLPS [Mini Long Play Sleeve] Japanese Mini-LP Replica Audio CD OBI"
+]
+
+['JETHRO TULL IN CONCERT LIVE AT THE BBC NEW SEALED', 'Brahms: Symphony No. 2', 'Mood Music for Pleasure /Relaxing with the Stars (Reader\'s Digest 4_CD box)', 'From The Basement by Jan Akkerman', 'Spectrum 40 Live by Billy Cobham', 'Civilian by GENTLE GIANT (2015-04-08)', 'Ultra Rare Trax Live [Import]', 'Up !', 'ROAD BAND ! THE WOODY HERMAN HERD, 1955 CAPITOL T 658']
+['Columbia Presents Marches by Edwin Franko Goldman and the Goldman Band', 'CON EL INDIO FIGUEREDO', 'Vivaldi the Four Seasons/concerto for Two Trumpets', 'Tupelo by Milagro Saints (2013-05-03)', 'MI MEXICO QUERIDO... MUSICA MEXICANA', 'VIOLIN CHARANGUERO', 'Tchaikovsky Manfred Symphony, Op. 58', 'Stokowski Encores']
+['1965: Shakin' All Over', 'Miaskovsky/ Shostakovich/ Prokofiev', 'Pov Import Edition by Utopia (2011) Audio CD', 'The Temptation of Saint Anthony', 'Dowland: Lachrimae Or Seven Tears And Other Pavanes', 'Classic Metal', 'AM Gold: The Early ’60s', 'Paul Hindemith Theme and Four Variations for Piano and Orchestra “The Four Tem', 'Bootsy? Player Of The Year', 'Jean-pierre Rampal Pergolesi Flute Concertos 1 and 2,bach Suite No. 2 in B Minor']
+['give me 45 rpm single', 'Stravinsky: The Rite of Spring (La Sacre Du Printemps) (HDAD)', 'Brahms Symphony No. 2 in D Major Op 73', 'The Greatest Country Music Recordings of All Time', 'Ida Presti and Alexandre Lagoya Four Concertos for Two Guitars', 'CHARLEY PRIDE - i\'m just me']
+['Pleyel: Piano Trios Opus 16 & 29 by Joachim Trio', 'Pleyel: Clarinet Concertos 1 & 2 Sinfonia Concertante (2008-09-30)', 'The Beatles Greatest Hits Part 1 1962-1965 2 CD Digipak', 'Myslivecek: Violin Concertos, Vol 2', 'Dave\'s Picks Volume 2', 'From Then to You [Japanese Mini Lp Sleve]', 'Dr. Feelgood\'s Traveling Medicine Show', 'Pleyel: Flute Quartet in B Major/Symphony in A/ Sinfonia Concertante in D', 'BAILOTECA PA\'BAILAR Y REMATAR']
+['Dmitris Sgouros performs Schumann: Etudes Symphoniques & Brahms: Variations on a Theme by Paganini, Books I & II (Audiocassette)', 'Milhaud & Enescu: Concerto for Violin /Sonata for Violin Import', '16 Greatest Hits by Steppenwolf', 'A Feather on the Breath of God: Sequences and Hymns by Abbess Hildegard of Bingen', 'Sarum Chant': Missa In Gallicantu / Christe Redemptor Omnium / Veni Redemptor Gentium / Salvato', 'Liszt - Spanish Rhapsody, Rumanian Rhapsody, Rhapsody On Hungarian Songs, Concerto Pathetique for Two Pianos:Louis Kentner, Pianist with Joan Havill, 2nd Piano', 'The High Road to Kilkenny, Gaelic Songs and Dances from the 17th & 18th Centuries by Francois Lazarevitch (2016-05-04)', 'World Theatre', 'Liszt - Berg - Bartok: Piano Sonatas']
+['Pleyel: Prussian Quartets (Preussische Quartette) (CPO: 777551-2) (Pleyel Quartett K??ln)', 'THE BEATLES - SOMETHING NEW - CD MINI LP WITH OBI', 'Huge - 10 Years in 70 Minutes - Duke Street Records', 'Linear Progression (EP)', 'Ecstasy', 'Raspberry Jam', '30 Grandes Exitos De La Billo\'s Caracas Boys', 'Recuerdos De Cuba', 'Beethoven Symphony No 6 “Pastoral” Rotterdam, Munch']
+['Symphony 5 in F Major Op 76 / Husitska Overture by Dvorak', 'Chapter 29 - Saturday Nite Live', 'Rhythm & Art by Mahlathini, Mahotella Queens (1990-05-21)', 'ANTONIN DVORAK Sextet in A major and Quintet in E flat major performed by the EUROPEAN STRING QUARTET Westminster WST 17099', 'JACKIE McLEAN & CO.', 'CYCLES LP (VINYL)', 'mudy in squall', 'Herd', 'You Were Meant to Be']
+
+[“El Danzon”, “Pleyel: String Quartets Op 2, Nos 1-3”, “Musician Magazine’s A Little on the CD Side Volume 25”, “40 Años De Exitos”, “Romberg: String Quartets, Vol. 2 by MD&G Records”, “Pier 1 Imports Presents Cafe Con Leche”, “CON EL INDIO FIGUEREDO”, “Acerina Y Su Danzonera (80 Aniversario 24 Dancones Inolvidables)”, “Traveling Wilburys, Vol. 3”, “Cuba Isla De La Juventud : Sucu-Sucu”]
+
+
+[
+    "Debussy: Clair de Lune",
+    "Satie: Gymnopédie No. 1",
+    "Mozart: Piano Concerto No. 21",
+    "Bach: Goldberg Variations",
+    "Handel: Water Music",
+    "Vivaldi: The Four Seasons",
+    "Schubert: Ave Maria",
+    "Chopin: Nocturne in E-flat Major, Op. 9 No. 2",
+    "Strauss: Also Sprach Zarathustra",
+    "Mahler: Symphony No. 5"
+]
+
+['JACKIE McLEAN & CO.','Timeless Favorites - What the World Needs Now Is...Bacharach & David (CD)','Maynard Moose: Sleeping Beastly and Other Tales','Laura Smith','Pyotr Tchaikovsky: The Nutcracker, Romeo And Juliet, Fantasy-Overture','I'M MOVIN ON','Stan Getz With Guest Artist Laurindo Almeida by Stan Getz (1984-11-01)','Early American Melodies','Each Rare Moment']
+
+[
+    "Peak Tracks Volume Two",
+    "Where I Should Be by Frampton, Peter Import edition (2004) Audio CD",
+    "Mozart: Piano Concerto No. 22 / Beethoven: Symphony No. 4 / Haydn: Cello Concerto No. 2 / Strauss: Symphony Domestica",
+    "25th hour",
+    "Lombardo Country - Guy Lombardo and His Royal Canadians",
+    "AL GOODMAN Rose Marie Box Set 45 rpm Four Blue 7\" VG+ RCA Victor WK 1",
+    "Ravel-Shostakovich - Trios for Piano, Violin, and Cello - Trio Di Bolzano",
+    "Between Heaven and Paradise",
+    "One Hundred Miles Away From Home"
+]
+
+['Approximately Infinite Univers Original recording reissued', 'Original recording remastered Edition by Yoko Ono & Plastic Ono Band (1997)', 'Folk Songs: Olivero, Mascagni, Galante, Krauze, Savona, Sciarrino, Ambrosini, Petrov, Francesconi, Stuppner, Zimmermann (From Festival Musica '900 a Trento)', 'Schubert: String Quintet in C, Op. 163, D. 956', 'Honegger: Symphonies No. 5 & 3', 'LITAIZE: Works for Organ - Oliver Latry', 'Concertos for diverse Instruments', 'Semiramis', 'summer kind of song / baby, move in 45 rpm single']
+['Beethoven: Symphonies Nos, 6 & 8 - Klaus Tennstedt', 'Oasis by Flack, Roberta (1990) Audio CD', 'Purcell: Come Ye Sons of Art / Welcome to All Pleasures', 'Four Seasons', 'Sir Harrison Birtwistle: 17 Tate Riffs', 'Joey Bishop Sings Country Western [LP VINYL]', 'Paul Creston: Invocation and Dance, Op. 68 & Jacques Ibert: A Louisville Concerto', 'PFS 4196 IVAN DAVIS Tchaikovsky Piano Concerto 1 RPO Henry Lewis LP']
+
+[
+    "Unforgettable Fifties Disc 2",
+    "The Musical Manner Of Mac Reynolds With Guest Appearance By Singing Star Melva Niles (Original LP Vinyl Album Featuring Music by the Salt Lake City Sinfonietta Conducted by Eugene Jelesnik)",
+    "Anthology",
+    "From Worlds Beyond by Masters Of Metal",
+    "Winter Plunderband",
+    "Roy Drusky: Swing Wide Your Gate Of Love",
+    "Catch Us If You Can / On the Move",
+    "'Connections' (CD, 2021)",
+    "Life in a Tin Can by BEE GEES (2014-07-09)"
+]
+
+['I Fall To Pieces. 20 Country Classics.', 'Love You To Life', 'Mythology (4 CD) Box set Edition by Bee Gees (2010)', 'English Lute Songs & Six In Nomines', 'Jimmy and the Swingers', 'Schubert String Quintet In C', 'Grow Into One']
+['Paco', 'Masters of the Guitar, Vol. 1 (vinyl LP)', 'Great Masters of Flamenco, Vol. 14 (Grands Cantaores du Flamenco)', 'love me with a feeling LP', 'Trouble Man', 'Misa Criolla / Misa Flamenca', 'Counterfeit Friends / Your Picture', 'Lute Music of the Renaissance', 'good deal', 'Paco y La Flor']
+['Mussorgsky: Pictures At an Exhibition', 'Night on the Bare Mountain', 'Prelude from Khovanshchina', 'BLOODGOOD (SELF-TITLED)', 'Smetana: String Quartet No. 1 & Dvorak String Quartet No. 6', 'Streams of White Light Into Darkened Corners', 'CHARLEY PRIDE - i'm just me RCA', 'Requiem', 'Approximately Infinite Univers Original recording reissued', 'Low']
+
+[
+    "Pat Boone: His Greatest Hits and Finest Performances (Readers Digest / 3-cd Box)",
+    "KBCO Studio C Vol. 22",
+    "Bind in Love",
+    "Raspberry Jam",
+    "Gebel: String Quartets by Unknown (2015-09-11)",
+    "Party All Night EP",
+    "Benda/Pichl/Vranick:Vn.Concs",
+    "Vocal Works With Orchestr",
+    "MONSTA X Mini Album - Fantasia X [ 2 ver. ] CD + Photobook + Photocard + Sticker + OFFICIAL POSTER + FREE GIFT / K-pop Sealed"
+]
+
+['PROCOL HARUM-WELL'S ON FIRE,THE By Procol Harum (0001-01-01)', 'Time Life: The Spirit of the 60s- 1965', 'Soul of the Bayou by Gregg Martinez', 'Sibelius: Symphony No. 3; Symphony No. 6', 'The Sensational Johnny Rivers (Original 1964 LP Record)', '(Al Lampkin's) Latter-Day Night Live', 'Spirit of the Century by The Blind Boys of Alabama (2001) Audio CD', 'Beat the System (Legends of Rock)', 'Floored by Sugar Ray (2001-05-01)']
+
+[
+    "The Beatles - THE ESHER DEMOS - Audio Cd MLPS [Mini Long Play Sleeve] Japanese Mini-LP Replica Audio CD OBI",
+    "The Beatles - I HOPE WE PASSED THE AUDITION CD MINI LP OBI",
+    "The Beatles - Live in Japan 1966 CD/DVD PAL MINI LP SET",
+    "The Beatles - UK Singles Collection Vol.1 [ Cd Mini Lp Obi ]",
+    "Mythology 1966 (CD MINI LP OBI)",
+    "The Beatles - THE ESHER DEMOS - Audio Cd MLPS [Mini Long Play Sleeve] Japanese Mini-LP Replica Audio CD OBI",
+    "The Beatles - GREAT HITS GERMAN - Audio Cd MLPS [Mini Long Play Sleeve] Japanese Mini-LP Replica Audio CD OBI",
+    "The Beatles - EIGHT DAYS A WEEK GERMAN RLS - Audio Cd MLPS [Mini Long Play Sleeve] Japanese Mini-LP Replica Audio CD OBI",
+    "IGOR KRUTOY BEST SONGS 2CD ИГОРЬ КРУТОЙ ЛУЧШИЕ ПЕСНИ 2CD"
+]
+
+['Schubert: Schwanengesang, D 957', 'Hakan Hagegard & Emanuel Ax|Passion', 'Dave\'s Picks Volume 3', 'Lute Music of the Renaissance', 'Out Of All This Blue', 'Snake Eyes', 'Francaix: Concerto for Guitar and Orchestra with Strings 1982/1983', 'Symphony of Bows 1948', 'Concerto for Two Harps and String Orchestra']
+
+[
+    "Definitive Collection: Beat Boys in the Jet Age",
+    "Wranitzky: String Quintet & String Sextet by Brilliant Classics (2012-03-15)",
+    "What You Need",
+    "Songs for a Mormon Child",
+    "Beach Boys",
+    "Simon & Garfunkel",
+    "Lovin' Spoonful",
+    "Ohio Express",
+    "Beck: Symphonies, Op. 3, Nos. 1, 2, 6; La mort d'Orf?e Overture",
+    "seaholm electric: before i disappoint you again"
+]
+
+
+[
+    "The Complete Chamber Music of Schubert",
+    "Classics In Jazz: Dixieland Stylists",
+    "Vienna 1709 by Hana Blazikova, Ensemble Tourbillon, Petr Wagner (2014-10-14)",
+    "Black Widow, The Star Chamber, and The Driver, limited-edition two-CD set",
+    "The Beatles - THE BEATLES GERMAN RLS - Audio Cd MLPS [Mini Long Play Sleeve] Japanese Mini-LP Replica Audio CD OBI",
+    "92.3 WTTS Collector's Edition, Volume 12",
+    "The Lonesome Rhodes|Americana",
+    "Beatles UK EP COLLECTION VOL. 2 CD MINI LP OBI",
+    "The Stompers, Greatest Hits...Live!"
+]
+
+
+['Volts', 'Big Jam Session', 'Music for Anna [Live In La Boîte]', 'Soundproof', 'Live On The Road Vol. 1', 'Gimme Some Skin', 'Guitar Rock 1978-1979', 'Franz Schubert Vocal Duets, Trios & Quartets', 'Yours Truly', 'Classic Country 1960 - 1964 [2 Cd\'s]']
+
+['The Magnificent Moodies: 50th Anniversary Deluxe 2CD Remastered Edition By The Moody Blues (2014-12-15)', 'Paganini & Wilhelmj & Saint-Saens & Brahms', 'Roots of It All', '60\'s Summer of Love', 'The Sound of Silence – Simon & Garfunkel', 'True Blue Super Club Mix - Original', 'A Dozen Hits', 'Running With Scizzors', 'Triggers', 'The Sound of Silence – Simon & Garfunkel']
+['El Flamenco Es...', 'From India', 'Vintage Music Collectors Series: Volumes 17 & 18', 'Music for Anna [Live In La Boîte]', 'The Only World in Town by Jag (1995-02-19)', 'love me with a feeling LP', 'FROM HILLYARD', 'Grandes Guitarras Del Flamenco', 'Jazz Legacy', 'Living In Blue by The Blackouts']
+
+["Face The Crowd", "Apples of Gold", "Uncommon Love", "STREET LEGAL", "Chapter 32: G-Code", "Invites You To Listen", "Bootsy? Player Of The Year", "Vogel: Three Symphonies by Oehms Classics (2010-03-30)", "Joint Ventures", "William Byrd / Thomas Tallis: Masses and Motets (BBC Music, Vol. 6, No. 10)"]
+
+["A Country Christmas 1996","Grandes Voces Del Son Cubano","Monkey Meet Live","Devon - It's My Nature","Lo Mejor De","Metachoral Visions","The Henry Allen Collection, Vol. 2, 1932-1935"]
+['The Beatles (White Album)', 'The Beatles – Unsurpassed Masters Vol. 7 (1962-1969) 1991 Yellow Dog YD 013', 'Live At Shea Stadium 1965 (CD MINI LP OBI)', 'The Beatles – Live ’65 – Atlanta 1965 & Vancouver 1964', 'The Beatles Collection Complete 14 CD Set (26 albums) Russian CD Maximum Import', 'Something New / The Beatles’ Second Album [Import] (Bonus Tracks)']
+['The Fragments Of Resurrection', 'Bear Tracks: Special Bear Exports', 'Sometimes Late At Night Bonus EP Live', 'Caravan: From The Land Of Grey And Pink [4CD]', 'M3|EL SON Y SU SABOR', 'Mind Over Friction - A Re-Issue of the Classic Science Friction, Live and Studio Recordings', 'Fibich: Symphony No. 1 in F major, Op. 17; The Tempest, Op.46', 'Carmina Burana/Late Choral Music...']
+
+[
+    "Dussek: 5 Piano Trios (2000) Audio CD",
+    "Romantic Piano",
+    "The Deep End, Vol. 2 by Gov't Mule (2002-10-08)",
+    "Alicia Again",
+    "I Love You Because You're Fat",
+    "Dvorák: Symphonien No.8",
+    "Green Light/Thank You Very",
+    "Every Sunday Night",
+    "Hitt Man",
+    "Roots of It All"
+]
+
+['The Beatles Road Runner: The Lost Star Club Tapes 1962 (CD)', 'Timeless Favorites - What the World Needs Now Is...Bacharach & David (CD)', 'The Beatles (Second Album Recording Sessions) LTD 2cd', 'Glory Days of Rock N' Roll Rockabilly', 'The Beatles Road Runner: The Lost Star Club Tapes 1962 (CD)', 'Ultra Rare Trax Vol. 4', 'Nono : Intolleranza 1960 by Various Artists (2010-10-26)', 'Athamra', 'Tulips On My Organ']
+['Colin Blades - Simple Experience', 'Tchaikovsky: Violin Concerto', 'Brahms - Hungarian Dances', 'GREATEST HITS by BOB SEGER', 'Ronnie Wells - Make Me a Present of You', 'Dvorák - The 2 Piano Quartets / Piano Quintet / Bagatelles', 'The New Seekers-Greatest Hits Rar 1987 Uk Oop', 'Astral Weeks (Expanded Edition)']
+
+[
+    "The Roots Of Bob Dylan",
+    "El Flamenco Es...",
+    "King of the Delta Blues Singer",
+    "Road Trips, Vol. 4, No. 4, Spectrum 4-6-82",
+    "Live in Tokyo-1983",
+    "Rolled Gold (2-cd set) + 16 Bonus Tracks",
+    "Lute Music of the Renaissance",
+    "THE BEATLES A Hard Day's Night / A Hard Day's Night +7 Bonus tracks",
+    "Summer Rock-Walking on Sunshine"
+]
+
+['Jan Akkerman - Empty Mansions', 'Jan Akkerman - Oil in the Family', 'Jan Akkerman - On the Ropes', 'Tchaikovsky /Wolf /Elgar/barber: Serenade', 'Spirit']
+['Teen Idols|Glory Days of Rock n Roll', 'Haydn: Complete Piano Trios', 'The Heart of Rock n' Roll 1960-1961 Take Two', 'Blues Reality by Little Joe Washington (2005-04-15)', 'Julian Bream The Woods So Wild', 'Mahler: Symphony No. 9', 'Isang Yun: Concerto for Violoncello, etc.', 'Original Folk Blues: The Legend of Elmore James', 'Sibelius Symphony No. 4 4/march/1969 Live Recording Stereo/live', 'Bruno-Leonardo Gelber - Schubert: Wanderer Fantasy and Schumann: Sonata No. 2 in G Minor, Op. 22 [Stereo LP]']
+['Foreigner/Records, 1982|Eduard Erdmann: The Telefunken, Polydor & Parlophone Recordings, 1920-1933|Shirells, Ray Peterson, Ben E.King, Drifters, Chiffons', 'Time Again', 'Bleeding Diamonds', 'Crossing The Border', 'THE BEATLES - SOMETHING NEW - CD MINI LP WITH OBI', 'Habanera!', 'Nothing’s Gonna Keep Me Down', 'My Miracle']
+['Great Pianists of the Century Play Chopin', 'Discovery Sampler : Alternative Volume One', 'HITS Post Millennium Syndrome', 'Dance Fusion', 'Music for Two Guitars from Spain & Latin America', 'Milhaud & Enescu: Concerto for Violin /Sonata for Violin', 'Last Blast of the Century by Golden Earring', 'Kickin\' It Up by John Michael Montgomery', 'Concert Etudes / Ghost Ship / Hope / One Only Lives Once / Hungarian Gypsy Melodies / Caprice Waltzes on themes of Johann Strauss']
+['Peace & Harmony', 'BABY SISTER [LP VINYL]', 'The Beatles - Live in Japan 1966 CD/DVD PAL MINI LP SET', 'Pleyel: Paris Quartets Vol.2 by ARS Produktion', 'ZZ Top - La Futura & Greatest Videos [CD+DVD PAL]', 'Scherrer / Fritz: Symphonien & Violinkonzert', 'Addison', 'Roberto Devereux', 'Diane/Blue Umbrella', 'Cheap Thrills']
+['Beethoven Overtures Coriolan Op. 62', 'Namensfeier, Op. 115', 'Prometheus, Op.43', 'Bach: Six Partitas - Vol. 1', 'Giovanni Gabrieli: Sacrae Symphoniae (Adda)', 'The Beatles - THE BEATLES GERMAN RLS - Audio Cd MLPS [Mini Long Play Sleeve] Japanese Mini-LP Replica Audio CD OBI', 'Pat Boone with Orchestra Record Vinyl LP Album']
+['Ernst von Gemmingen: Violin Concertos Nos. 3 & 4 by Kolja Lessin (2016-05-04)', 'Trio Sonatas', 'Heavy Metal - 24 Electrifying Performances - SP-2001', 'The Beatles – Acetates', '16 Great Hits Of Kenny Rogers & The First Edition (UK Import)', 'California Boppin’ 1947 by Fresh Sounds Spain (2008-01-01)', 'Vienna Mater Series', 'The Lost Pepperland Reel [Import]', 'Soliloquy [LP]']
+
+[
+    "Forever 80's : The Romanic Songs (2 CD)",
+    "Brahms: Piano Concerto No. 2 in B flat major, Op. 83 / Canto Del Destino (Song of Destiny), Op. 54",
+    "The Moody Blues Collection",
+    "All The Things You Are: Boston Pops / Arthur Fiedler",
+    "Beethoven Symphony No 6 \"Pastoral\" Rotterdam, Munch",
+    "Echoes From The Analog",
+    "You're Good for Me",
+    "CHOBA B CCCP/SINGLE HITS VIII",
+    "Black Pearl Schubert Symphony #8 in B Minor, Mozard Symphony #29 in A Major",
+    "In Her Dream - Bob Wiseman Sings Wrench Tuttle"
+]
+
+['Citizens', 'Jazz Cafe Sampler', 'SOMNIEM', 'Yes - Pet Shop Boys', '20 Y.O.', 'Vogel: Three Symphonies by Oehms Classics (2010-03-30)', 'Winds Of Chance', 'The Art of All By Morgan', 'Myslivecek: Sinfonias', 'Michael Haydn: Three String Quintets']
+
+['The Genuine Basement Tapes Volume 2', 'Cocktail Classics Pachelbel\'s Canon', 'Alley Cat', 'Italian Violin Sonatas from the Baroque', 'Vivaldi: Complete Works with Lute', 'Recital', 'Flower Power : United We Stand', 'Tulips On My Organ', 'Gunter Wand: Brahms Symphony Nr. 3, NDR', 'Hard Harder Hardest']
+
+['Bach: Magnificat; Jauchzet Gott in allen Landen', 'Stand Tall / Dig Down Deep (2 on 1)', 'Milonga', 'Elisabeth Schwarzkopf Sings Schubert, Brahms, Mahler, R. Strauss', 'Bones', 'Three Pieces', 'Come Scoglio', 'Steel Strings', 'Copy Cat']
+['The Musical Manner Of Mac Reynolds With Guest Appearance By Singing Star Melva Niles (Original LP Vinyl Album Featuring Music by the Salt Lake City Sinfonietta Conducted by Eugene Jelesnik)', 'Exploding Budgies - The Complete Goblin Mix', 'Krakauer, david Big Picture Mainstream Jazz', 'AZNAVOUR (Yesterday When I Was Young)', 'De lane Lea Studios 1973 by Renaissance', 'Tom Netherton Love Songs', 'Stephen Chopek Chris Love Joy Brain Trust', '1965: Shakin’ All Over', 'Population Unknown', 'LA GUITARRA DE SABICAS']
+['Jimmy Rowles Plays Duke Ellington and Billy Strayhorn', 'Your Hit Parade: 1954', 'Mr. B.B. King by B.B. King', 'Grandes Voces Del Son Cubano', 'The Rock 'N' Roll Era: 1963', '92.3 WTTS Collector\'s Edition Volume 9', 'Grandes Voces Del Son Cubano', 'The Rock \'N\' Roll Era: 1963', 'Jimmy Rowles Plays Duke Ellington and Billy Strayhorn', 'The Rock \'N\' Roll Era: 1963']
+['The Good Ole Days Volume Four', 'Awakening Rhythm', 'Shaking the Tree: 16 Golden Greatest Hits by Peter Gabriel', 'don\'t play funny games 45 rpm single', 'El Danzon', 'Tito Rodríguez 40 Años 40 Exitos', 'THE PASADENAS ELEVATE NUOVO E SIGILLATO', 'Gebel: String Quartets by Unknown', 'Ford Supersonic']
+['Black Pearl Schubert Symphony #8 in B Minor', 'Mozard Symphony #29 in A Major', 'Classics In Jazz: Dixieland Stylists', 'Meet the Swamp Critters: Music from the Hit TV Series', 'King Planet', 'Lifescapes, Goodnight Baby Vocal Lullabies', 'Beethoven Live At The Proms - Symphony No. 5 & Symphony No. 7 - BBC Scottish Symphony Orchestra - Osmo Vanska - 1997 BBC Music Magazine Vol. V No. 11', 'Just Keep Thinkin\' That', 'So Long Astoria by Ataris [Music CD]']
+Julian Sitkovetzky Plays Violin Concertos by Sibelius & Khachaturian and other works by Bazzini & Sarasate|Shostakovich: Symphony No 14: Vishnevskaya . Reshetin: Rostropovich, Cond.|Barbara Cook - Live from London by BARBARA COOK (2013-05-03)|Ralph Vaughan Williams: Norfolk Rhapsody No. 1; in the Fen Country; Fantasia on a Theme By Thomas Tallis; Etc. - Bryden Thomson (Conductor), London Philharmonic Orchestra (Orchestra)|The Rose and the Ostrich Feather (Music from the Eton Choirbook, Vol. 1)|Cross Purposes Live|'Children Of The Stones' [CD, 2018]|The Haunting: The Deluxe Edition|Invocations - V. Artyomov|Julian Sitkovetzky Plays Violin Concertos by Sibelius & Khachaturian and other works by Bazzini & Sarasate
+['Flaming Flamenco Guitar', 'Elephant Hotel', 'BEATLES RAW ENERGY CD MINI LP OBI', 'The Golden Age of English Lute Music', 'BEATLES I HOPE WE PASSED THE AUDITION CD MINI LP OBI', 'Orquesta Reve & Neno Gonzalez : Mano a Mano', 'Empty Mansions', 'The Beginning (Doctor Who: The Companion Chronicles)', 'Hay Una Fiesta']
+['The Beatles - Uk Singles Collection Vol.1 [ Cd Mini Lp Obi ]', 'Tchaikovsky /Wolf /Elgar/barber: Serenade', 'The American Virtuoso', 'Isang Yun: Concerto for Violoncello, etc.', 'The Rose and the Ostrich Feather (Music from the Eton Choirbook, Vol. 1)', 'Mouret: Les Amours de Ragonde ou la Vieillée de Village', 'Grieg: Concerto in A Minor for piano and orchestra, Op.16 Oscar Levant piano', 'La fuente de lo jondo', 'The Swingle Singers: 1812', 'Jagged Little Pill 12 Tracks']
+['The Beatles (Second Album Recording Sessions)', 'Soul of the Bayou by Gregg Martinez', 'Cruisin Country - Volume 2 Classics Records', 'Aloha Radio Hawaii [CD, 2020]', 'Dread Clampitt', 'Myslivecek: Sinfonias', 'The Beatles', 'Shout! Factory Fall 2005 Sampler (Audio CD) - Various Artists', 'Robin's Reign']
+['Billy Cobham - Mirror\'s Image', 'Songs for a Mormon Child', 'Daniel Shafran Shostakovich & Schubert Cello Sonata', 'Poi Dog Pondering - Fruitless', 'Billy Cobham - Mirror\'s Image', 'Johann Strauss: Famous Waltzes', 'Luigi Cherubini: Complete String Quartets, Vol. 3', 'Billy Cobham - Mirror\'s Image', 'Luigi Cherubini: Complete String Quartets, Vol. 3', 'Billy Cobham - Mirror\'s Image']
+['Dvorak: Violin Concerto in A Minor, Op. 53', 'Itzhak Perlman', 'EXO Vol. 2 - Exodus (Korean Version)', 'Barry Sadler', 'Anthology', 'Ford Supersonic', 'Valuable Angel', 'Group 1850: Paradise Now', 'Live 105 - SF LOCAL BANDS MUSIC']
+
+[
+    "Beethoven: Favourite Piano Sonatas",
+    "The Swingle Singers Compilation Album (Reflections & Live at Ronnie Scotts)",
+    "Volume 2: Live At Basin Street",
+    "Honeylake",
+    "Beethoven: String Quartet Op. 95/Schubert: Quartet D.887",
+    "One Half of a Whole Decade- Five Years at Ministry of Sound",
+    "Gossec: Six Flute Quartets, Op 14.",
+    "Dvorak Symphony No. 6 in D Major, Carnival Overture",
+    "Heaven's Eye",
+    "Big Chill Deluxe Ed|Greatest Hits|I'm So Lonesome I Could Cry|Sound of Jazz by Lionel Hampton (1996-02-23)|Sing Me a Hank Williams Song|Chubby Checker|40 Great Country Instrumentals|Tammy Wynette Greatest Hits Live (17 songs)|If I Had a Hammar|"
+]
+
+['Balaban', 'Mozart: Symphonies Nos. 38 & 39', 'King Size Guitar & Honky Tonk Guitar', 'Do U Damage', 'Purcell: The Fairy Queen / Incidental Music', 'Bartok / Dohnanyi / Kodaly: For Violin and Piano', 'Geite Parisienne', 'Beethoven: Piano Sonatas', 'Tie Me Kangaroo Down, Sport', 'Hay Una Fiesta']
+['Sky Volume 3|The Complete US & UK Singles As & Bs 1955-62 by Connie Francis [Music CD]', 'Anne Murray: 36 Greatest Hits', 'Tribu', 'Love in Principle - Nick Verzosa and the Nobel Union Cd', 'The Cries Of London: The Cruel Mother', 'Uptown Saturday Night - Dancing Machine ~ Various ~ Funk / Soul ~ ~ Good', 'Black Pearl Schubert Symphony #8 in B Minor, Mozard Symphony #29 in A Major']
+['CLP 1707 YURY BOUKOFF Chopin Polonaises Volume 2 (8-16)', 'Devotion', 'The Beatles - "Past Masters" 2 CD Set - Audio Cd MLPS [Mini Long Play Sleeve]', 'Industrial Evolution By Small Factory (1996-06-14)', 'Pictures At an Exhibition', 'Milonga', 'Era in Static', 'Galaxy S9 Clear Screen Protector Case Friendly Tempered Glass Screen Protector for Galaxy S9 2 Pack C029']
+['Collection|The Society of Singers Presents ALL Star Performances: 18 Classic Hits', 'Tigerlily', 'Johann Pachelbel -Hexachordum Apollinis + Chaconne In F Minor', 'Kaleidoscope World', 'Swingin' on a Seven-String', 'Beethoven Symphony No 6 "Pastoral" Rotterdam, Munch', '20Ten', 'Les Brown, 1949 The Uncollected Series Vol. 3', 'Focus']
+Max Rostal Plays Bartok, Beethoven, Brahms|FROM HILLYARD|Timeless Favorites: We Could Have Danced All Night with Lerner & Loewe|Amazing Grace - Breath - Cd, 1997|PURPOSEMAKER|Kate & the Devil-Complete Opera|El Famous|Down to Earth by RAINBOW (2012-01-24)|Top of My Lungs by Phillips, Craig, Dean (2006-09-26)|Slipknot [CD]
+['Paul Whiteman Conducts George Gershwin w/ Leonard Pennario Piano Solo [Rhapsody in Blue, An American in Paris]', 'Dvorák: Complete Piano Trios', 'Observing Miss Spent', 'Chapter 33 - G'd Up S**t', 'It’s Time by Kahil El’Zabar’s Ethnics featuring Nona Hendryx (2011-04-19)', 'Celtic Love Collection', 'LA BOMBA VOL.3 (DJ PELOS) 2 CD’s + 1 DVD', 'Vietnam: Dreams and Reality', 'Alternate A Hard Day’s Night 1964', 'Poppy']
+['Johann Strauss, Jr. ~ Readers Digest Favorites From the Classics', 'Haydn Piano Sonatas Kathleen Long', 'Glen Campbell Plays 12 String Guitar', 'Paulette Sings Mostly Mellow Classic Jazz', 'Night Dog', 'Dionne & Friends - That’s What Friends Are For (Featuring Elton John, Gladys Knight and Stevie Wonder)', 'Sand Pebbles Original Soundtrack', 'Paul Van Kempen Conducts Beethoven 3 7 8 Symphonies -Berlin Philharmonic (2 CDs)', 'Go My Son - Arliene Nofchissey & Carnes Burson']
+
+[
+    "The Beatles Road Runner: The Lost Star Club Tapes 1962 (CD)",
+    "The Best of The Nitty Gritty Dirt Band",
+    "Beethoven: Symphony No. 9 (8/22/1954) by Elsa Cavelti, Ernst Haefliger, Elisabeth Schwarzkopf, Otto Edelmann Hybrid SACD - DSD, Import, Live edition (2008) Audio CD",
+    "Classic Country 1960 - 1964 [2 Cd's]",
+    "The Singers and Songwriters Collection: The Classics",
+    "Guitar Rock 1978-1979",
+    "'That's Everything' (CD, 2020)",
+    "Alternate Help 1965",
+    "Your Hit Parade - 1944",
+    "The Sound of Silence – Simon & Garfunkel | The Moody Blues | Pink Floyd – The Dark Side of the Moon | Led Zeppelin – Led Zeppelin IV | Queen – A Night at the Opera | Bruce Springsteen – Born in the U.S.A. | David Bowie – Ziggy Stardust | The Rolling Stones – Exile on Main St. | Bob Dylan – Highway 61 Revisited | Fleetwood Mac – Rumours"
+]
+
+['Ravel-Shostakovich - Trios for Piano, Violin, and Cello - Trio Di Bolzano', 'Maure', 'Seymour Lipkin / Leonard Bernstein - Shostakovich: Sym / 5 /Bernstein: Sym / 2 (1959 Salzburg) [Japan CD]', 'The Complete US & UK Singles As & Bs 1955-62 by Connie Francis', 'A Country Christmas 1996', 'Dive Right Inn: The Only Spring Break CD You'll Need', 'Beethoven:Piano Sonatas', 'A Tower Records Tribute To The Beatles', 'Haba;Mother']
+['Live From the Slippery Noodle Inn: Volume 1', 'Meeting Venus: Highlights from Wagner\'s Tannhauser by Kiri Te Kanawa (1991-09-03)', 'The 12 String Guitar of Glen Campbell', 'Alone Again Naturally', 'Daytime Dreamer', 'Pat Boone Sings Winners of the Reader\'s Digest Poll']
+
+[
+    "Chet Atkins - Guitar Man",
+    "Chet Atkins - Tunes from the Country",
+    "Chet Atkins - Guitar Solos",
+    "Chet Atkins - Country Classics",
+    "Chet Atkins - Great Guitar Solos",
+    "Chet Atkins - Country Guitar",
+    "Chet Atkins - Guitar Greats",
+    "Chet Atkins - Country Favorites",
+    "Chet Atkins - Guitar Arrangements",
+    "Chet Atkins - Country Classics Vol. 2"
+]
+
+['The Sound of Silence – Simon & Garfunkel', 'The Moody Blues', 'Pink Floyd – The Dark Side of the Moon', 'Led Zeppelin – Led Zeppelin IV', 'Queen – A Night at the Opera', 'Bruce Springsteen – Born in the U.S.A.', 'David Bowie – Ziggy Stardust', 'The Rolling Stones – Exile on Main St.', 'Bob Dylan – Highway 61 Revisited', 'Fleetwood Mac – Rumours']
+['Reader's Digest Timeless Favorites: Bacharach & David', 'Beatriz Adriana - 80 Aniversario Peerless [Donde Comienza La Musica Grabada En Mexico]', 'RIGHT ON AHI NA’MA', 'Wait a Minute', 'Queen 18 Greatest Hits Live', 'Singers and Songwriters: The 1960s', 'Songs about Mama', 'Fantasien Der Romantik', 'The ’60s: Last Dance TIME LIFE']
+
+[
+    "The Beatles – Unsurpassed Masters Vol. 5 (1969)",
+    "The Original Piano Artistry of Jonathan Edwards",
+    "Love Go",
+    "A Country Christmas 1996",
+    "A Dozen Hits",
+    "Modeste Mussorgsky by Cala Records",
+    "The Heart of Rock 'N' Roll 1956 / 1957",
+    "spanish onions LP",
+    "Who's Laughing Now?",
+    "The Henry Allen Collection, Vol. 2, 1932-1935"
+]
+
+['hot shot baby|Loretta Lynn, Waylon Jennings, Brenda Lee, Willie Nelson, Charley Pride','Inside Out|Ray Stevens Box Set','Aaron Bazzell - 'Aesthetic' (CD, 2022)','Golden Hits: 15 Hits Of Pat Boone','Straight Outta Coon Rapids','(Al Lampkin's) Latter-Day Night Live','Lombardo Country - Guy Lombardo and His Royal Canadians','Elephant Hotel']
+['Julian Sitkovetzky Plays Violin Concertos by Sibelius & Khachaturian and other works by Bazzini & Sarasate', 'GREY STAR - RUBY STARR', '(Al Lampkin\'s) Latter-Day Night Live', 'SECRET(CD+DVD)', 'Heat of the Moment: Essential Collection', 'Sir Harrison Birtwistle: 17 Tate Riffs, The Silk House Tattoo & Five Distance for Five Instruments', 'Tiny Crustacean Light by Donovan\'s Brain (2000-01-01)', 'Yevgeny Mravinsky. Debussy. Bartok. Stravinsky.', 'Meredith Willson - Symphonies Nos 1 & 2 (1999-10-11)']
+
+[
+    "Tartini:Complete Violin Concertos [Federico Guglielmo; Carlo Lazari; L'Arte dell'Arco, Giovanni Guglielmo] [DYNAMIC: CDS7713/1-29]",
+    "Beethoven: Violin Concerto / Chausson: Poeme, Op. 25 / Ravel: Tzigane (Ginette Neveu in Performance) (1949 Concerts, Previously Unreleased)",
+    "Live At Cornerstone, Vol. 1",
+    "Anthology 1",
+    "Mozart Violin Sonatas - BBC Music Volume II Number 6",
+    "Ral Donner - 33 Greatest Hits",
+    "All 'bout the Money",
+    "Young Modern [CD + DVD] by Silverchair [Music CD]",
+    "Something's Gotta Give"
+]
+
+
+[
+    "Schubert: String Quintet in C, Op. 163",
+    "Classic Soft Rock: California Dreamin’",
+    "The Singers and Songwriters Collection: The Classics",
+    "Awesome 80's",
+    "lucille / i love you because 45 rpm single",
+    "Essential Recordings",
+    "Ariel by Jerry Goodman",
+    "Momento Mori",
+    "Beethoven: Violin Concerto / Chausson: Poeme, Op. 25 / Ravel: Tzigane (Ginette Neveu in Performance) (1949 Concerts, Previously Unreleased)",
+    "Arturo Toscanini Conducts Music of Italian Composers (Arturo Toscanini Society)"
+]
+
+['Under The Stars', 'Budgie - Live at the Marquee 1974 (LP)', 'Texas', 'Symphony No 9/Abravanel', 'Greetings from the Boss: 15 Tracks handpicked by Bruce Springsteen', 'Four Mile Road', 'Marching on Your Parade', 'Songs of Mercy and Justice: 10 songs about mercy and justice to celebrate 25 years of World Visions work', 'AE Essential Mix (American Eagle Outfitters)', 'Dansez Renaissance']
+
+[
+    "Pov Import Edition by Utopia (2011) Audio CD",
+    "Deep in the Night by James, Etta (1996) Audio CD",
+    "Angus",
+    "Verdi Requiem. Leonie Rysanek Soprano. Regina Resnik Mezzo-Soprano. David Lloyd Tenor",
+    "The Beatles Ballads - Japanese pressing with Type 9 OBI strip #38",
+    "Chronicles by Rush [Music CD]",
+    "The Moody Blues Collection",
+    "Alive Outside",
+    "Best Of Dark Horse 1976-1989",
+    "The Beatles "INTRODUCING ENGLAND'S NO.1 VOCAL GROUP" LP 1964 FACTORY SEALED"
+]
+
+['tennessee tango 45 rpm single', 'Live In Philadelphia 8', 'Pat\'s Great Hits volume 2', 'Things Lovely', 'Down Under (But Not Out)', 'Time Life The Rock 'N' Roll Era 1959', 'Aqui Esta Cuba', 'Premier Livre d\'Orgue', 'Laura Smith']
+
+[
+    "RUDOLF FIRKUSNY- SMETANA- CZECH POLKAS AND DANCES",
+    "Johann Pachelbel -Hexachordum Apollinis + Chaconne In F Minor",
+    "Colonna: Mass for 5 Voices, Dixit Dominus, Beatus Vir - Tito Gotti",
+    "Chamber Orchestra of Lausanne",
+    "Run From The Darkness",
+    "Aqui Esta Cuba",
+    "Underground Metal",
+    "Columbia Presents Marches by Edwin Franko Goldman and the Goldman Band",
+    "Beethoven Symphony No 6 \"Pastoral\" Rotterdam, Munch",
+    "Smetana: String Quartet No. 1 & Dvorak String Quartet No. 6",
+    "Live on the Westside"
+]
+
+["The Sound of Silence – Simon & Garfunkel","Love Go","Life Changes","Heartfelt Solo Piano","Naughty Marietta; w/ picture sleeve","Original Reggae Hits Of The 60's & 70's Vol. 2","Beethoven - Symphony No. 5 in C minor Op. 67/Piano Concerto No.2 in B flat major Op. 19","Bach In The Cathedral","Timeless Favorites - What the World Needs Now Is...Bacharach & David (CD)"]
+
+[
+    "Acerina Y Su Danzonera (80 Aniversario 24 Dancones Inolvidables)",
+    "UNCUT MAGAZINE : THE REM COLLECTION , DISC 1/ MIKE MILLS PRESENTS",
+    "Tartini:Complete Violin Concertos [Federico Guglielmo; Carlo Lazari; L'Arte dell'Arco, Giovanni Guglielmo] [DYNAMIC: CDS7713/1-29] By Federico Guglielmo ,Carlo Lazari ,L'Arte dell'Arco (2015-06-01)",
+    "Vogel: Three Symphonies by Oehms Classics (2010-03-30)",
+    "Crimes of the Heart",
+    "Somewhere in England Mini Lp Cd Japan",
+    "Cuba Isla De La Juventud : Sucu-Sucu",
+    "A Perfect Day / Mother Machree",
+    "Michael Haydn: Three String Quintets",
+    "The Singers and Songwriters Collection: The 1960's"
+]
+
+['Preachers From Outer Space by Daniel Amos (Audio CD)', 'By Request', 'INDIVIDUAL-SYSTEM(CD+DVD)', "'If At First You Don't Succeed '98"', "'The Masters of the Guitar 7 Lp Boxed Set [Vinyl] Various Artists: Montoya, Segovia, Renata Tarraga …"', 'Milhaud & Enescu: Concerto for Violin /Sonata for Violin Import', 'El Flamenco Es...']
+['Holiday Ranch|Robo Sapien|SOME PEOPLE CAN DO WHAT THEY LIKE(ltd.paper-sleeve)|De La Calle (Musica Original De La Pelicula)|The Best of the Classics 2|Raspberry Jam|Very Warm|Peggy Sings The Blues|GREG LAKE / MANOEUVRES|Educacao Sentimental']
+['JETHRO TULL IN CONCERT LIVE AT THE BBC NEW SEALED', 'The Golden Band Era Volume Four', 'And A Little Child Shall Lead Them... Vol 1', 'SPINAL TAP-FROM THE ORIGINAL MP SOUNTRACK-12" VINYL', 'sir lord baltimore', 'DISCO DANCE AND LOVE THEMES OF THE 70\'S', 'Skies I Haven\'t Flown', 'Beck: Six Symphonies Op 1', 'Konzertante Quartette 4-6']
+['Brainticket + Psychonaut', 'Mitch\'s Marches', 'Beethoven: Octet for Winds - Rondino for Wind Octet - Sextet for Winds', 'PLAY IT MAESTRO', 'Oklahoma Girl by Mcentire, Reba (1994) Audio CD', 'Jesus Is Coming Soon', 'Heartbreaking Ballads 5', 'Mrs Gillespies Refrigerator']
