@@ -56,7 +56,7 @@ def query_ollama_chat(model, prompt_question, max_token = 2048):
     data = r.json()
     return (data.get("message") or {}).get("content","").strip()
 
-with open("../Data/prompt_ADM.txt", encoding="utf-8") as f, \
+with open("../Data/input.txt", encoding="utf-8") as f, \
      open("CoT_reasoning_process.txt", "w", encoding="utf-8") as reasoning_file, \
      open("CoT_recommendations.txt", "w", encoding="utf-8") as recommendations_file:
     
