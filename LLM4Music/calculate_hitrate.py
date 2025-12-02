@@ -1,23 +1,37 @@
 import json
+import ast
+import sys
+import re
 
 def load_recommendations(filepath):
     """
     Loads recommendations from a file.
-    The file is expected to contain blocks of JSON arrays, separated by blank lines.
+    The file can contain blocks of JSON arrays, or one list per line.
     """
     with open(filepath, 'r') as f:
         content = f.read().strip()
     
-    json_strings = content.split('\n\n\n')
+    # Split by one or more newlines
+    blocks = re.split(r'\n\s*\n', content)
     
     recommendations = []
-    for s in json_strings:
-        if s:
-            try:
-                recommendations.append(json.loads(s))
-            except json.JSONDecodeError as e:
-                print(f"Warning: Could not parse JSON block. Error: {e}")
-                print(f"Block content: {s}")
+    for block in blocks:
+        if not block.strip():
+            continue
+        try:
+            # Try to parse as JSON
+            recommendations.append(json.loads(block))
+        except json.JSONDecodeError:
+            # If JSON parsing fails, try to parse line by line with ast.literal_eval
+            lines = block.strip().split('\n')
+            for line in lines:
+                if not line.strip():
+                    continue
+                try:
+                    recommendations.append(ast.literal_eval(line))
+                except (ValueError, SyntaxError) as e:
+                    print(f"Warning: Could not parse line. Error: {e}")
+                    print(f"Line content: {line}")
     return recommendations
 
 def load_ground_truth(filepath):
@@ -65,8 +79,11 @@ def calculate_hitrate(recommendations, ground_truth):
     return hitrate, hits, num_users
 
 def main():
-    # Hardcoded file paths relative to the script's location
-    recommendations_file = "Output-NoShot.txt"
+    if len(sys.argv) > 1:
+        recommendations_file = sys.argv[1]
+    else:
+        recommendations_file = "CoT_recommendations.txt"
+    
     ground_truth_file = "../Data/recommendations.txt"
 
     recommendations = load_recommendations(recommendations_file)
