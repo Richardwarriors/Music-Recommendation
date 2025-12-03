@@ -142,8 +142,8 @@ A final comparison table (placeholder):
 | Model      | Setting     | HitRate@10  | Notes                    |
 | ---------- | ----------- | ----------- | ------------------------ |
 | BPR-MF     | CF baseline |   0.0256    | Standard MF + BPR        |
-| Gemma 3 4B | Zero-shot   | —           | Uses no examples         |
-| Gemma 3 4B | Few-shot    | —           | 1–3 example preferences  |
+| Gemma 3 4B | Zero-shot   |   0.0000    | Uses no examples         |
+| Gemma 3 4B | Few-shot    |   0.0091    | 1–3 example preferences  |
 | Gemma 3 4B | CoT         |   0.0000    | Chain-of-thought enabled |
 
 ---
