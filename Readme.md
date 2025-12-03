@@ -13,24 +13,36 @@ To benchmark LLM performance, we implement a traditional collaborative filtering
 Music-Recommendation/
 │
 ├── BPR/                      
-│   ├── BPR_MF.py                 # BPR-MF model (matrix factorization + BPR loss)
-│   ├── data.py                   # Dataset loader and negative sampling
-│   ├── main.py                   # Training + evaluation entry point
-│   └── preprocess_data.py        # Preprocessing for Amazon Digital Music
+│   ├── BPR_MF.py                     # BPR-MF model implementation
+│   ├── data.py                       # Dataset loader + negative sampling
+│   ├── main.py                       # Training & evaluation entry point
+│   └── preprocess_data.py            # Data preprocessing for experiments
 │
 ├── Data/
-│   └── prompt_ADM.txt            # Dataset-specific prompt template for LLM
+│   └── prompt_ADM.txt                # Input prompt template for LLM-Rec
 │
 ├── LLM4Music/
-│   ├── LLM4Rec.py                # Gemma 3 ICL recommendation pipeline
-│   ├── CoT_reasoning_process.txt # Saved reasoning steps from Gemma
-│   ├── CoT_recommendations.txt   # Generated ICL recommendations
-│   ├── Output-NoShot.txt         # Zero-shot results
-│   ├── Output - FewShot.txt      # Few-shot experiment #1
-│   ├── Output - FewShot2.txt     # Few-shot experiment #2
-│   └── Output_result.txt         # Final processed results summary
+│   ├── LLM4Rec.py                    # LLM-based recommender pipeline (Zero/Few-shot)
+│   │
+│   ├── CoT_manual_inspection.md      # Manual inspection of chain-of-thought samples
+│   ├── CoT_reasoning_process.txt     # Model reasoning traces
+│   ├── CoT_recommendations.txt       # Generated LLM recommendations
+│   │
+│   ├── Output-NoShot.txt             # Zero-shot recommendation output
+│   ├── Output - FewShot.txt          # Few-shot recommendations (set 1)
+│   ├── Output - FewShot2.txt         # Few-shot recommendations (set 2)
+│   ├── Output - Recommendations - Few Shot.txt   # Formatted few-shot results
+│   ├── Output - Recommendations - Zero Shot.txt  # Formatted zero-shot results
+│   ├── Output_result.txt             # Final combined results summary
+│   │
+│   ├── Reasoning - Few Shot.txt      # Few-shot reasoning traces
+│   ├── Reasoning- Zero Shot.txt      # Zero-shot reasoning traces
+│   │
+│   ├── calculate_hitrate.py          # Evaluation: hit-rate & ranking metrics
+│   └── process_data.py               # Preprocessing scripts for LLM data
 │
-└── README.md
+├── .gitignore                        # Git ignore file
+└── README.md                         # Project introduction & usage
 ```
 
 ---
@@ -128,12 +140,12 @@ We evaluate:
 
 A final comparison table (placeholder):
 
-| Model      | Setting     | HR@10 | NDCG@10 | Notes                    |
-| ---------- | ----------- | ----- | ------- | ------------------------ |
-| BPR-MF     | CF baseline | TBD   | TBD     | Standard MF + BPR        |
-| Gemma 3 4B | Zero-shot   | —     | —       | Uses no examples         |
-| Gemma 3 4B | Few-shot    | —     | —       | 1–3 example preferences  |
-| Gemma 3 4B | CoT         | —     | —       | Chain-of-thought enabled |
+| Model      | Setting     | HR@10  | Notes                    |
+| ---------- | ----------- | ------ | ------------------------ |
+| BPR-MF     | CF baseline | 0.0256 | Standard MF + BPR        |
+| Gemma 3 4B | Zero-shot   | —      | Uses no examples         |
+| Gemma 3 4B | Few-shot    | —      | 1–3 example preferences  |
+| Gemma 3 4B | CoT         | —      | Chain-of-thought enabled |
 
 ---
 
