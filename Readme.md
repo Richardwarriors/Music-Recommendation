@@ -133,7 +133,7 @@ A final comparison table (placeholder):
 | BPR-MF     | CF baseline | TBD   | TBD     | Standard MF + BPR        |
 | Gemma 3 4B | Zero-shot   | —     | —       | Uses no examples         |
 | Gemma 3 4B | Few-shot    | —     | —       | 1–3 example preferences  |
-| Gemma 3 4B | CoT         | —     | —       | Chain-of-thought enabled |
+| Gemma 3 4B | CoT         | 0     | 0       | Chain-of-thought enabled |
 
 ---
 
